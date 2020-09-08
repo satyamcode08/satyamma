@@ -10,7 +10,7 @@ function setup() {
   speed=random(223,321)
   weight=random(30,52)
   thickness=random(22,83);
-  car.velocityX=speed;
+  bullet.velocityX=speed;
   console.log(car.velocityX);
   
 }
